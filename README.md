@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Om Prakash Kumar 👋
 
-<!--
-**omprakashkumar-dev/omprakashkumar-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer | C# | .NET | ASP.NET Core
 
-Here are some ideas to get you started:
+Software Developer with 2 years of experience in C#, ASP.NET Core, Web API, Entity Framework Core, ADO.NET and SQL Server.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+
+- C#
+- ASP.NET Core
+- RESTful Web API
+- Entity Framework Core
+- ADO.NET
+- SQL Server
+- LINQ
+- Clean Architecture
+- CQRS
+- Dependency Injection
+- HTML, CSS, JavaScript, jQuery
+- Git & GitHub
+- Postman
+- Jenkins
+- DBeaver
+
+## 🚀 Projects
+
+- RetailHub
+- MyNewProject
+
+## 🎯 Currently Working With
+
+- ASP.NET Core Web API
+- Entity Framework Core
+- SQL Server
+- REST API Development
+- Backend Development
+- Clean Architecture & CQRS
+
+## 📫 Connect With Me
+
+- GitHub
